@@ -4,7 +4,13 @@
  if you want a 128k, WARNING, DISK SPACE WILL BE WASTED,
 
  if you are using 1.7 then only inner planets and moons are included and dwarf plannets are also included,
+ 
+ 64k Earth on ISS view:
 
+![64kearth](https://github.com/user-attachments/assets/7055dadf-4946-4cb3-ab1d-b957fd012f2e)
+
+ List of Planets in Progress:
+ 
  Earth: IN PROGRESS
  
  Venus: PAUSED
