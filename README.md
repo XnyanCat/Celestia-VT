@@ -59,3 +59,6 @@
  90377 Sedna: PAUSED
  
  Charon: PAUSED
+
+ Credits:
+ NASA: Earth Textures
