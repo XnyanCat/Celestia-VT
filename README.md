@@ -62,4 +62,4 @@
 
  Credits:
  
- NASA: Earth Surface and NightLights
+ NASA: Blue Marble and Black Marble (Public Domain)
