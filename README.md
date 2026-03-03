@@ -61,4 +61,5 @@
  Charon: PAUSED
 
  Credits:
- NASA: Earth Textures
+ 
+ NASA: Earth Surface and NightLights
