@@ -1,0 +1,7 @@
+VirtualTexture                 
+{                 
+ImageDirectory "earthnight"                 
+BaseSplit 0                 
+TileSize 512                 
+TileType "dds"                 
+}
