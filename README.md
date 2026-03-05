@@ -3,7 +3,7 @@
 
  if you want a 128k, WARNING, IT IS VERY HEAVY,
 
- Earth clouds get Ultra Resolution and Mars gets Ultra Resolution Clouds,
+ Earth gets Ultra Resolution Clouds and Mars gets Ultra Resolution Clouds,
  
  64k Earth on ISS view:
 
