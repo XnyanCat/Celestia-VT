@@ -1,9 +1,9 @@
 # Celestia-VT
  this is celestia addon project with 8k/16k/32k/64k/128k textures. if you want your own vt's. please visit https://celestiaproject.space/forum/viewtopic.php?f=25&t=22962
 
- if you want a 128k, WARNING, DISK SPACE WILL BE WASTED,
+ if you want a 128k, WARNING, IT IS VERY HEAVY,
 
- if you are using 1.7 then only inner planets and moons are included and dwarf plannets are also included,
+ Earth clouds get Ultra Resolution and Mars gets Ultra Resolution Clouds,
  
  64k Earth on ISS view:
 
@@ -53,12 +53,19 @@
  
  13672 Makemake: PAUSED
 
- 
  136199 Eris: PAUSED
  
  90377 Sedna: PAUSED
  
  Charon: PAUSED
+
+ Jupiter: PAUSED
+
+ Saturn: PAUSED
+
+ Uranus: PAUSED
+
+ Neptune: PAUSED
 
  Credits:
  
